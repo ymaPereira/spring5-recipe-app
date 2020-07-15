@@ -4,6 +4,7 @@ package guru.springframework.recipe.domain;
 import javax.persistence.*;
 
 @Entity
+@Table(name = "notes")
 public class Notes {
 
     @Id
