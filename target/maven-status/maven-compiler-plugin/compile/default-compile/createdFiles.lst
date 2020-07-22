@@ -1,0 +1,15 @@
+guru\springframework\recipe\domain\Difficulty.class
+guru\springframework\recipe\repositories\IgredientRepository.class
+guru\springframework\recipe\repositories\UnitOfMeasureRepository.class
+guru\springframework\recipe\Spring5RecipeAppApplication.class
+guru\springframework\recipe\domain\Ingredient.class
+guru\springframework\recipe\bootsrap\RecipeBootstrap.class
+guru\springframework\recipe\repositories\RecipeRepository.class
+guru\springframework\recipe\domain\Category.class
+guru\springframework\recipe\domain\Notes.class
+guru\springframework\recipe\controllers\IndexController.class
+guru\springframework\recipe\domain\Recipe.class
+guru\springframework\recipe\repositories\CategoryRepository.class
+guru\springframework\recipe\controllers\RecipeController.class
+guru\springframework\recipe\repositories\NotesRepository.class
+guru\springframework\recipe\domain\UnitOfMeasure.class
